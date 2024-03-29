@@ -20,7 +20,7 @@ jobs:
         with:
           find: \bVersion\s=>\s\"[\d\.]+
           replace: "Version => \"${{ github.ref_name }}"
-          include: "Speedshard_Core.cs"
+          include: "MoreSaveSlot.cs"
 
       - name: Set user info
         run: |
