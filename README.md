@@ -21,7 +21,7 @@ A [video](https://www.youtube.com/watch?v=_J0oJYGi38E&t=13s&ab_channel=Nylux) wa
 
 ### Using MSL
 
-- Download the latest `.sml` file released of [Stoneshard - MoreSaveSlot]().
+- Download the latest `.sml` file released of [Stoneshard - MoreSaveSlot](https://github.com/remyCases/Stoneshard-MoreSaveSlots/releases).
 - Move the `MoreSaveSlot.sml` in the `MSL/Mods` folder.
 - Run `ModShardLauncher.exe`.
 - Click on the anvil icon on the leftside.
@@ -55,6 +55,8 @@ Other mods I've made:
     - [Speedshard_Stances](https://github.com/remyCases/SpeedshardStances)
     - [Character Creation](https://github.com/remyCases/CharacterCreator)
     - [Pelt Durability](https://github.com/remyCases/Stoneshard-PeltDurability)
+    - [Defeat Scenarios](https://github.com/remyCases/Stoneshard-DefeatScenarios)
+
 
 - Shardpunk:
     - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
